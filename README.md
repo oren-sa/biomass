@@ -1,5 +1,5 @@
 # Recurrent biomass deficits
-
+Alex Orenstein, 2020
 These rasters show recurrent biomass deficits in West Africa between 2015 and 2019.
 
 The BiomassValue Rasters were downloaded from Action Contre la Faim's geosahel.info platform (http://80.69.76.253/Viewer.aspx?map=Analyse-Biomasse-Finale#) and show the total annual Dry Matter Productivity (Biomass) at a 1km resolution. The values are expressed in kg/ha. These rasters are built from VITO's PROBA-V DMP Product (https://land.copernicus.eu/global/products/dmp)
